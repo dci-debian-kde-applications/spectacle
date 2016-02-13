@@ -1,3 +1,9 @@
+spectacle (15.12.2-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.12.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 10:25:20 +0100
+
 spectacle (15.12.1-1) experimental; urgency=medium
 
   * Initial release (15.12.0).

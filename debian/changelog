@@ -1,9 +1,11 @@
-spectacle (15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+kde-spectacle (15.12.1-1ubuntu1) UNRELEASED; urgency=medium
 
   * Merged with Debian
   * New upstream release
+  * Merged again with Debian as package name changed to 
+    kde-spectacle
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 13 Feb 2016 22:58:49 +0000
+ -- Clive Johnston <clivejo@aol.com>  Mon, 15 Feb 2016 19:44:49 +0000
 
 spectacle (15.12.1-1) experimental; urgency=medium
 

@@ -1,4 +1,4 @@
-Source: spectacle
+Source: kde-spectacle
 Section: kde
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
@@ -29,7 +29,7 @@ Homepage: https://projects.kde.org/projects/kde/kdegraphics/spectacle
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/applications/spectacle.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/applications/spectacle.git
 
-Package: spectacle
+Package: kde-spectacle
 Section: graphics
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}

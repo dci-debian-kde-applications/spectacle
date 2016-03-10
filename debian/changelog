@@ -1,6 +1,7 @@
 kde-spectacle (15.12.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream bugfix release
+  * Add new build dep libkipi. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 21:10:49 -0800
 

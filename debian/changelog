@@ -6,6 +6,7 @@ kde-spectacle (15.12.2-0ubuntu1) UNRELEASED; urgency=medium
     desktop-mime-but-no-exec-code fix for upstream. 
   * Adjust patch to comment rather than remove. 
   * Removing patch. Done with this. 
+  * Add license text for LGPL-2 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 21:10:49 -0800
 

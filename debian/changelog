@@ -4,12 +4,7 @@ kde-spectacle (15.12.2-0ubuntu1) UNRELEASED; urgency=medium
   * Add new build dep libkipi. 
   * Add kubuntu_test_desktop_mime_fix.patch to test
     desktop-mime-but-no-exec-code fix for upstream. 
-  * Add files. 
-  * Remove added cruft. 
-  * Refresh patch. 
-  * Line number corrections. 
-  * Patch whitespace?!  
-  * Last attempt at patching this. 
+  * Adjust patch to comment rather than remove. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 21:10:49 -0800
 

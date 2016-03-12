@@ -7,6 +7,7 @@ kde-spectacle (15.12.2-0ubuntu1) UNRELEASED; urgency=medium
   * Add files. 
   * Remove added cruft. 
   * Refresh patch. 
+  * Line number corrections. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 21:10:49 -0800
 

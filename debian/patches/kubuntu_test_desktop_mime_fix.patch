@@ -1,12 +1,13 @@
-diff --git a/desktop/org.kde.spectacle.desktop b/desktop/org.kde.spectacle.desktop
-index fa6a77b..f6093e2 100644
---- a/desktop/org.kde.spectacle.desktop
-+++ b/desktop/org.kde.spectacle.desktop
-@@ -52,7 +52,6 @@ Name[uk]=Spectacle
+diff --git desktop/org.kde.spectacle.desktop desktop/org.kde.spectacle.desktop
+index 5f24638..58c0f9a 100644
+--- desktop/org.kde.spectacle.desktop
++++ desktop/org.kde.spectacle.desktop
+@@ -53,7 +53,7 @@ Name[uk]=Spectacle
  Name[x-test]=xxSpectaclexx
- Name[zh_CN]=Spectacle
+ Name[zh_TW]=Spectacle
  Categories=Qt;KDE;Utility;
 -MimeType=
++#MimeType=
  Exec=spectacle
  Icon=spectacle
  Type=Application

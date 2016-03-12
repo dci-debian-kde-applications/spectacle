@@ -2,7 +2,7 @@ diff --git a/desktop/org.kde.spectacle.desktop b/desktop/org.kde.spectacle.deskt
 index fa6a77b..f6093e2 100644
 --- a/desktop/org.kde.spectacle.desktop
 +++ b/desktop/org.kde.spectacle.desktop
-@@ -53,7 +53,6 @@ Name[uk]=Spectacle
+@@ -53,7 +53,6 @@ Name[zh_TW]=Spectacle
  Name[x-test]=xxSpectaclexx
  Name[zh_CN]=Spectacle
  Categories=Qt;KDE;Utility;

@@ -1,5 +1,6 @@
 kde-spectacle (15.12.2-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream bugfix release
   * Add new build dep libkipi. 
   * Add kubuntu_test_desktop_mime_fix.patch to test
@@ -7,6 +8,14 @@ kde-spectacle (15.12.2-0ubuntu1) UNRELEASED; urgency=medium
   * Adjust patch to comment rather than remove. 
   * Removing patch. Done with this. 
   * Add license text for LGPL-2 
+
+  [ Clive Johnston ]
+  * Add new build dep libkf5purpose-dev which will be
+    in the new frameworks release
+  * Add lintian override for desktop-mime-but-no-exec-code, for more
+    details see KDE Bug - https://bugs.kde.org/show_bug.cgi?id=359584
+  * Add lintian override for binary-without-manpage usr/bin/spectacle
+    as there is nothing really we can do to fix this
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 21:10:49 -0800
 

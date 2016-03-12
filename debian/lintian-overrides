@@ -1,0 +1,5 @@
+# Binary has no manpage, nothing we can do about this for now, but ignore it
+kde-spectacle: binary-without-manpage usr/bin/spectacle
+# Over riding the desktop-mime-but-no-exec-code, until upstream decide what 
+# to do about it.  See KDE Bug - https://bugs.kde.org/show_bug.cgi?id=359584
+kde-spectacle: desktop-mime-but-no-exec-code usr/share/applications/org.kde.spectacle.desktop

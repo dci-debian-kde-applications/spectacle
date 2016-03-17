@@ -1,4 +1,4 @@
-kde-spectacle (15.12.2-0ubuntu1) UNRELEASED; urgency=medium
+kde-spectacle (15.12.3-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream bugfix release
   * Add new build dep libkipi. 
@@ -7,8 +7,9 @@ kde-spectacle (15.12.2-0ubuntu1) UNRELEASED; urgency=medium
   * Adjust patch to comment rather than remove. 
   * Removing patch. Done with this. 
   * Add license text for LGPL-2 
+  * New upstream bugfix release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 21:10:49 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 16 Mar 2016 19:22:28 -0700
 
 kde-spectacle (15.12.1-1ubuntu1) xenial; urgency=medium
 

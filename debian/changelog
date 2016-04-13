@@ -1,8 +1,14 @@
-kde-spectacle (15.12.2-1~) UNRELEASED; urgency=medium
+kde-spectacle (15.12.3-1~1.gbp8c7b45) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @8c7b45dad79547ef6456da020f069094d131d806 **
+
+  [ Maximiliano Curia ]
   * New upstream release (15.12.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 10:25:20 +0100
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:32:44 +0200
 
 spectacle (15.12.1-1) experimental; urgency=medium
 

@@ -5,26 +5,28 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
-               extra-cmake-modules (>= 5.12.0),
-               kdoctools-dev (>= 5.6.0~),
-               kio-dev (>= 5.6.0~),
-               libkf5config-dev (>= 5.6.0~),
-               libkf5coreaddons-dev (>= 5.6.0~),
-               libkf5dbusaddons-dev (>= 5.6.0~),
-               libkf5i18n-dev (>= 5.6.0~),
-               libkf5notifications-dev (>= 5.6.0~),
-               libkf5screen-dev (>= 4:5.2.0~),
-               libkf5widgetsaddons-dev (>= 5.6.0~),
-               libkf5windowsystem-dev (>= 5.6.0~),
-               libkf5xmlgui-dev (>= 5.6.0~),
+               extra-cmake-modules (>= 5.18.0~),
+               kdoctools-dev (>= 5.18.0~),
+               kio-dev (>= 5.18.0~),
+               libkf5config-dev (>= 5.18.0~),
+               libkf5coreaddons-dev (>= 5.18.0~),
+               libkf5dbusaddons-dev (>= 5.18.0~),
+               libkf5declarative-dev (>= 5.18.0~),
+               libkf5i18n-dev (>= 5.18.0~),
+               libkf5notifications-dev (>= 5.18.0~),
+               libkf5screen-dev (>= 4:5.4.0~),
+               libkf5widgetsaddons-dev (>= 5.18.0~),
+               libkf5windowsystem-dev (>= 5.18.0~),
+               libkf5xmlgui-dev (>= 5.18.0~),
                libqt5x11extras5-dev (>= 5.4.0~),
                libxcb-cursor-dev,
                libxcb-image0-dev,
                libxcb-util0-dev,
                libxcb-xfixes0-dev,
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev (>= 5.4.0~)
-Standards-Version: 3.9.6
+               qtbase5-dev (>= 5.4.0~),
+               qtdeclarative5-dev (>= 5.4.0~)
+Standards-Version: 3.9.8
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/spectacle
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/spectacle.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/spectacle.git

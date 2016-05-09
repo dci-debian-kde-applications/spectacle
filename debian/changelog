@@ -1,8 +1,16 @@
-kde-spectacle (15.12.2-1~) UNRELEASED; urgency=medium
+kde-spectacle (16.04.0-1~1.gbpaca4f2) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @aca4f2a75c23e1ebf527da34289beb8e9b508a3e **
+
+  [ Maximiliano Curia ]
   * New upstream release (15.12.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 10:25:20 +0100
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 03:32:10 +0200
 
 spectacle (15.12.1-1) experimental; urgency=medium
 

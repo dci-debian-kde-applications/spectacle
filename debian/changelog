@@ -1,18 +1,19 @@
-kde-spectacle (16.04.0-1~2.gbpc570fb) UNRELEASED; urgency=medium
+kde-spectacle (16.04.1-1~1.gbpb2c003) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @c570fbf4feea4275c29859c972be4689c3ae5723 **
+  ** SNAPSHOT build @b2c003da9d7b0d39790c3c3e52da627043f73771 **
 
   [ Maximiliano Curia ]
   * New upstream release (15.12.2).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
   * Add a .gitattributes file to use dpkg-mergechangelogs
   * Update build-deps and deps with the info from cmake
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:32:15 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 21:32:12 +0200
 
 spectacle (15.12.1-1) experimental; urgency=medium
 

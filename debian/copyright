@@ -20,12 +20,6 @@ Copyright: 2008, Aurélien Gâteau <agateau@kde.org>
            2010, Pau Garcia i Quiles <pgquiles@elpauer.org>
 License: GPL-2+
 
-Files: src/Gui/ScreenClipper.cpp
-       src/Gui/ScreenClipper.h
-Copyright: 2015, Boudhayan Gupta <bgupta@kde.org>
-           2007, Luca Gugelmann <lucag@student.ethz.ch>
-License: LGPL-2
-
 Files: doc/*
 Copyright: 2015, Boudhayan Gupta
            2000, Matthias Ettrich

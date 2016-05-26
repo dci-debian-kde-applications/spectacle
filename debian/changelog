@@ -1,4 +1,4 @@
-kde-spectacle (16.04.1-1) unstable; urgency=medium
+kde-spectacle (16.04.1-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (15.12.2).

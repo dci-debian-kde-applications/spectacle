@@ -1,10 +1,8 @@
-kde-spectacle (16.04.1-2~1.gbp641f4c) UNRELEASED; urgency=medium
+kde-spectacle (16.04.1-2) unstable; urgency=medium
 
-  ** SNAPSHOT build @641f4c0af8ddd333848f62da77db1c710a4cdbf0 **
+  * Release to unstable.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Thu, 26 May 2016 10:32:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 01 Jun 2016 10:35:31 +0200
 
 kde-spectacle (16.04.1-1) experimental; urgency=medium
 

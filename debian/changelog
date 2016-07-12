@@ -1,3 +1,11 @@
+kde-spectacle (16.04.3-1~1.gbp074065) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @074065341b13e11f30383fa90b6f1a4b2b6dac87 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 21:32:12 +0200
+
 kde-spectacle (16.04.2-1) unstable; urgency=medium
 
   * New upstream release.

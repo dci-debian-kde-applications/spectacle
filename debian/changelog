@@ -1,11 +1,13 @@
-kde-spectacle (16.08.0-1~1.gbp87ff74) UNRELEASED; urgency=medium
+kde-spectacle (16.08.0-1~2.gbp96c03a) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @87ff7499648c7b50d78c5271b8b5005f1462e380 **
+  ** SNAPSHOT build @96c03a3010213fc071260160b1eda92025382c62 **
 
   * UNRELEASED
   * UNRELEASED
+  * Add ksnapshot transitional package.
+    Thanks to Bernhard Schmidt for reporting (Closes: 835480)
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 03:32:13 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 26 Aug 2016 16:32:14 +0200
 
 kde-spectacle (16.04.2-1) unstable; urgency=medium
 

@@ -38,3 +38,13 @@ Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Screenshot capture utility, replaces KSnapshot
  Spectacle captures images of the screen. It can capture the whole screen,
  a specified region, an individual window, or only part of a window.
+
+Package: ksnapshot
+Section: oldlibs
+Priority: extra
+Architecture: all
+Depends: kde-spectacle, ${misc:Depends}
+Description: transitional package for kde-spectacle
+ This transitional package allows one to migrate to kde-spectacle.
+ .
+ It can be safely removed after the installation.

@@ -1,4 +1,6 @@
-kde-spectacle (16.08.0-1~1.gbp87ff74) UNRELEASED; urgency=medium
+kde-spectacle (16.08.0-1~2.gbp96c03a) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @96c03a3010213fc071260160b1eda92025382c62 **
 
   [ Maximiliano Curia ]
   * Add ksnapshot transitional package (Closes: 835480).

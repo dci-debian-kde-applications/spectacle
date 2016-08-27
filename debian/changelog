@@ -1,11 +1,10 @@
 kde-spectacle (16.08.0-1~1.gbp87ff74) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @87ff7499648c7b50d78c5271b8b5005f1462e380 **
+  [ Maximiliano Curia ]
+  * Add ksnapshot transitional package (Closes: 835480).
+    Thanks: Bernhard Schmidt for reporting.
 
-  * UNRELEASED
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 03:32:13 +0200
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 27 Aug 2016 08:04:48 +0200
 
 kde-spectacle (16.04.2-1) unstable; urgency=medium
 

@@ -4,6 +4,9 @@ include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
 
 DEB_VERSION_UPSTREAM_REVISION := $(shell dpkg-parsechangelog | awk '/^Version: / { print $$2 }' | sed -e 's/^[0-9]*://')
 
+override_dh_auto_install:
+	$(overridden_command) --destdir=debian/kde-spectacle
+
 override_dh_gencontrol:
 	$(overridden_command) -pksnapshot -- -v4:$(DEB_VERSION_UPSTREAM_REVISION)
 	$(overridden_command) --remaining-packages

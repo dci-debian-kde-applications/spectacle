@@ -1,4 +1,6 @@
-kde-spectacle (16.04.3-0r1) UNRELEASED; urgency=medium
+kde-spectacle (16.04.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * Add ksnapshot transitional package (Closes: 835480).
@@ -11,7 +13,7 @@ kde-spectacle (16.04.3-0r1) UNRELEASED; urgency=medium
   * Add the pkg-config build dependency.
   * Change the watch file to look for stable releases only.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 27 Aug 2016 08:04:48 +0200
+ -- Pino Toscano <pino@debian.org>  Fri, 02 Sep 2016 21:22:26 +0200
 
 kde-spectacle (16.04.2-1) unstable; urgency=medium
 

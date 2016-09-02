@@ -1,8 +1,11 @@
-kde-spectacle (16.08.0-1~1.gbp87ff74) UNRELEASED; urgency=medium
+kde-spectacle (16.04.3-0r1) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * Add ksnapshot transitional package (Closes: 835480).
     Thanks: Bernhard Schmidt for reporting.
+
+  [ Pino Toscano ]
+  * New upstream release.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 27 Aug 2016 08:04:48 +0200
 

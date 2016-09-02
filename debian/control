@@ -24,6 +24,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libxcb-image0-dev,
                libxcb-util0-dev,
                libxcb-xfixes0-dev,
+               pkg-config,
                pkg-kde-tools (>= 0.12),
                qtbase5-dev (>= 5.4.0~),
                qtdeclarative5-dev (>= 5.4.0~)

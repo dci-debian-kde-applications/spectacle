@@ -9,6 +9,7 @@ kde-spectacle (16.04.3-0r1) UNRELEASED; urgency=medium
   * Add the libkf5kipi-dev build dependency, to enable the support for
     KIPI plugins.
   * Add the pkg-config build dependency.
+  * Change the watch file to look for stable releases only.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 27 Aug 2016 08:04:48 +0200
 

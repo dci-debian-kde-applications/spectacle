@@ -1,12 +1,13 @@
-kde-spectacle (16.08.0-1~1.gbpf38a8d) UNRELEASED; urgency=medium
+kde-spectacle (16.08.1-1~1.gbpbea1da) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @f38a8defeefd205f22aebd1ade9318e031e9c669 **
+  ** SNAPSHOT build @bea1da61aa4ecb5d95604b0789ab44e9a4e7d41b **
 
   * Update changelog for 16.08.0-1~2.gbp96c03a release
   * Update changelog for 16.08.0-1~3.gbp8d86a3 release
   * Update build-deps and deps with the info from cmake
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Mon, 05 Sep 2016 10:30:18 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 21:32:34 +0200
 
 kde-spectacle (16.04.3-1) unstable; urgency=medium
 

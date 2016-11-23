@@ -1,10 +1,8 @@
-kde-spectacle (16.08.3-1~1.gbp3e2083) UNRELEASED; urgency=medium
+kde-spectacle (16.08.3-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @3e20838e4a050a24a57822643fa8c09d986c9eab **
+  * New upstream release (16.08.3)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 21:32:22 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 22:08:11 +0100
 
 kde-spectacle (16.08.2-1) unstable; urgency=medium
 

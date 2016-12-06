@@ -1,3 +1,10 @@
+kde-spectacle (16.08.3-2) unstable; urgency=medium
+
+  * Add transitional script for ksnapshot.
+    Thanks to Thorsten Glaser for the report (Closes: 845449)
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Dec 2016 14:13:16 +0100
+
 kde-spectacle (16.08.3-1) unstable; urgency=medium
 
   * New upstream release (16.08.3)

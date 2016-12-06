@@ -1,0 +1,4 @@
+#!/bin/sh
+echo >&2 "W: The ksnapshot utility has been deprecated in favor of spectacle"
+echo >&2 "W: Starting spectacle ..."
+exec spectacle "$@"

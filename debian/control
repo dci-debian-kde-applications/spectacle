@@ -37,6 +37,8 @@ Package: kde-spectacle
 Section: graphics
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: Screenshot capture utility, replaces KSnapshot
  Spectacle captures images of the screen. It can capture the whole screen,
  a specified region, an individual window, or only part of a window.

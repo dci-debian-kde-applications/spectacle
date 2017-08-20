@@ -29,7 +29,7 @@ Build-Depends: cmake (>= 2.8.12~),
                pkg-config,
                pkg-kde-tools (>= 0.12),
                qtbase5-dev (>= 5.4.0~),
-               qtdeclarative5-dev (>= 5.4.0~)
+               qtdeclarative5-dev (>= 5.4.0~),
 Standards-Version: 3.9.8
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/spectacle
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/spectacle.git
@@ -47,7 +47,7 @@ Description: Screenshot capture utility, replaces KSnapshot
 
 Package: ksnapshot
 Section: oldlibs
-Priority: extra
+Priority: optional
 Architecture: all
 Depends: kde-spectacle (>= ${source:Version}), ${misc:Depends}
 Description: transitional package for kde-spectacle

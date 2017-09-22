@@ -3,7 +3,7 @@ name: spectacle
 version: 17.08.1
 summary: Screenshot capture utility, replaces KSnapshot
 description: |-
-     Spectacle captures images of the screen. It can capture the whole screen,
+    Spectacle captures images of the screen. It can capture the whole screen,
     a specified region, an individual window, or only part of a window.
 confinement: strict
 grade: stable

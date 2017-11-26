@@ -6,6 +6,7 @@ kde-spectacle (17.08.3-0r1) UNRELEASED; urgency=medium
     drop translations.
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
+  * Remove unused debian/meta/cmake-ignore file.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 26 Nov 2017 15:53:18 +0100
 

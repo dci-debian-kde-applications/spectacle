@@ -1,3 +1,10 @@
+kde-spectacle (17.08.3-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 26 Nov 2017 15:53:18 +0100
+
 kde-spectacle (17.08.1-1) experimental; urgency=medium
 
   * New upstream release (17.08.1)

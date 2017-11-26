@@ -1,6 +1,7 @@
-kde-spectacle (17.08.3-0r1) UNRELEASED; urgency=medium
+kde-spectacle (17.08.3-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
+  * Upload to unstable. (Closes: #881973)
   * New upstream release.
   * Adjust l10npkgs_firstversion_ok to the version where kde-l10n will
     drop translations.
@@ -8,7 +9,7 @@ kde-spectacle (17.08.3-0r1) UNRELEASED; urgency=medium
   * Simplify watch file, and switch it to https.
   * Remove unused debian/meta/cmake-ignore file.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 26 Nov 2017 15:53:18 +0100
+ -- Pino Toscano <pino@debian.org>  Sun, 26 Nov 2017 16:07:34 +0100
 
 kde-spectacle (17.08.1-1) experimental; urgency=medium
 

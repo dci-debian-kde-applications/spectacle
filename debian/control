@@ -36,7 +36,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/spectacle.git
 Package: kde-spectacle
 Section: graphics
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}
+Depends: libkf5purpose-bin, ${misc:Depends}, ${shlibs:Depends}
 Breaks: ${kde-l10n:all}
 Replaces: ${kde-l10n:all}
 Description: Screenshot capture utility, replaces KSnapshot
